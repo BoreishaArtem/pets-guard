@@ -6,4 +6,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
+## Start the project
+
 To start project go to the server root and run "npm run start", in other tab run "peerjs --port 4001" to make sure that video stream are working properly 

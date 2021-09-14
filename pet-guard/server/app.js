@@ -1,5 +1,5 @@
-const serverPort = 4000
-
+const serverPort = process.env.PORT || 3000
+const router = require('./routes/index')
 const express = require('express')
 const app = express()
 const server = require('http').Server(app)

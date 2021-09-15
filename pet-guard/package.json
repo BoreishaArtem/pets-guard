@@ -1,6 +1,7 @@
 {
   "name": "pet-guard",
   "version": "0.0.0",
+  "author": "BoreishaArtem <tyma987.com@gmail.com>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
